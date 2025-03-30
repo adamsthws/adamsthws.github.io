@@ -7,12 +7,11 @@
         "social": {
             "youtube_handle": "@zeropercentstaking",
             "reddit_handle": "ZPCTpool",
-            "twitter_handle": "zpctpool",
-            "facebook_handle": "zeropercentstaking"
+            "twitter_handle": "zpctpool"
         },
         "about": {
             "me": "🞄 ZPCT Stake Pool is proudly supporting the Midnight network ✅ 🞄 Validating and writing blocks on Testnet today and looking forward to participating in the UPCOMING Mainnet and Midnight Airdrop! ✅ 🞄 Maximum rewards on your staked ADA - the lowest possible pool operator fees - 0% Fees Forever! ✅ 🞄 Thank you for staking with ZPCT, you charming devil you! ♥️",
-            "server": "Over-provisioned, bare metal systems + redundant failover cloud nodes for the highest possible performance and uptime."
+            "server": "Over-provisioned, locally managed, bare metal systems + redundant failover cloud nodes for the highest possible performance and uptime."
         }
     }
 }
